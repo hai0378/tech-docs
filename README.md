@@ -24,7 +24,7 @@
 
 * [Swoole扩展](http://rango.swoole.com)
 
-* [底层技术](http://chenzhenianqing.cn)
+* [Server端技术](http://chenzhenianqing.cn)
 
 * [Code Day博客](http://www.codeday.net)
 
@@ -32,9 +32,9 @@
 
 * [Golang示例](https://gobyexample.com)
 
-* [Laruence博客](http://www.laruence.com)
+* [Laruence](http://www.laruence.com)
 
-* [陶辉博客](http://blog.csdn.net/russell_tao)
+* [陶辉Nginx](http://blog.csdn.net/russell_tao)
 
 * [阮一峰博客](http://www.ruanyifeng.com/blog/archives.html)
 
