@@ -4,6 +4,8 @@
 
 * [代码学习](https://leetcode.com)
 
+* [FreeCodeCamp](https://www.freecodecamp.cn)
+
 * [项目经理](http://www.kancloud.cn/digest/liangjb1986/204603)
 
 * [Lnmp配置](http://www.nginx.cn)
@@ -14,7 +16,7 @@
 
 * [代码示例](http://www.programcreek.com)
 
-* [阿里技术](http://csrd.aliapp.com )
+* [阿里技术社区](http://csrd.aliapp.com )
 
 * [Linux内核](http://www.kerneltravel.net)
 
@@ -26,9 +28,7 @@
 
 * [Server端技术](http://chenzhenianqing.cn)
 
-* [Code Day博客](http://www.codeday.net)
-
-* [Golang API](http://godoc.golangtc.com)
+* [Golang Doc](http://godoc.golangtc.com)
 
 * [Golang示例](https://gobyexample.com)
 
@@ -36,11 +36,11 @@
 
 * [陶辉Nginx](http://blog.csdn.net/russell_tao)
 
-* [阮一峰博客](http://www.ruanyifeng.com/blog/archives.html)
+* [阮一峰技术栈](http://www.ruanyifeng.com/blog/archives.html)
 
 * [PHP内核分析](http://www.nowamagic.net/librarys/veda/detail/1285)
 
-* [OpenResty](http://www.kancloud.cn/kancloud/openresty-best-practices)
+* [OpenResty手册](http://www.kancloud.cn/kancloud/openresty-best-practices)
 
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 
