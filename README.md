@@ -16,7 +16,9 @@
 
 * [代码示例](http://www.programcreek.com)
 
-* [阿里技术社区](http://csrd.aliapp.com )
+* [代码示例2](http://www.learntosolveit.com)
+
+* [阿里技术社区](http://csrd.aliapp.com)
 
 * [Linux内核](http://www.kerneltravel.net)
 
@@ -34,9 +36,11 @@
 
 * [Laruence](http://www.laruence.com)
 
+* [后端技术](http://timyang.net)
+
 * [陶辉Nginx](http://blog.csdn.net/russell_tao)
 
-* [阮一峰技术栈](http://www.ruanyifeng.com/blog/archives.html)
+* [阮一峰技术栈](http://www.ruanyifeng.com/blog)
 
 * [PHP内核分析](http://www.nowamagic.net/librarys/veda/detail/1285)
 
