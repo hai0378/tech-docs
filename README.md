@@ -3,8 +3,8 @@
 
 ### 代码学习
 
-* [代码学习](https://leetcode.com)
 * [FreeCodeCamp](https://www.freecodecamp.cn)
+* [代码学习](https://leetcode.com)
 * [代码示例1](http://www.programcreek.com)
 * [代码示例2](http://www.learntosolveit.com)
 * [Golang示例](https://gobyexample.com)
