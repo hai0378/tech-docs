@@ -11,7 +11,7 @@
 
 ### 服务端技术
 
-* [JAVA编程](http://ifeve.com)
+* [Java编程](http://ifeve.com)
 * [后端技术](http://timyang.net)
 * [Lnmp配置](http://www.nginx.cn)
 * [PHP扩展](http://www.cunmou.com/phpbook)
