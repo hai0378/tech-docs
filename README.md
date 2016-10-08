@@ -16,7 +16,7 @@
 * [Lnmp配置](http://www.nginx.cn)
 * [PHP扩展](http://www.cunmou.com/phpbook)
 * [PHP内核](http://www.php-internals.com)
-* [后端技术](http://chenzhenianqing.cn)
+* [cznq博客](http://chenzhenianqing.cn)
 * [Rango博客](http://rango.swoole.com)
 * [Laruence博客](http://www.laruence.com)
 * [阮一峰博客](http://www.ruanyifeng.com/blog)
