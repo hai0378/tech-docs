@@ -14,12 +14,13 @@
 * [Java编程](http://ifeve.com)
 * [后端技术](http://timyang.net)
 * [Lnmp配置](http://www.nginx.cn)
-* [PHP扩展](http://www.cunmou.com/phpbook)
-* [PHP内核](http://www.php-internals.com)
+* [褚霸博客](http://blog.yufeng.info)
 * [cznq博客](http://chenzhenianqing.cn)
 * [Rango博客](http://rango.swoole.com)
-* [Laruence博客](http://www.laruence.com)
-* [阮一峰博客](http://www.ruanyifeng.com/blog)
+* [惠新宸博客](http://www.laruence.com)
+* [阮一峰博客](http://www.ruanyifeng.com)
+* [PHP内核](http://www.php-internals.com)
+* [PHP扩展](http://www.cunmou.com/phpbook)
 * [Redis设计与实现](http://www.kancloud.cn/kancloud/redisbook/63827)
 
 ### 综合技术
