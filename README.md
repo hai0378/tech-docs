@@ -21,6 +21,7 @@
 * [阮一峰博客](http://www.ruanyifeng.com)
 * [PHP内核](http://www.php-internals.com)
 * [PHP扩展](http://www.cunmou.com/phpbook)
+* [TCP协议详解](http://www.kancloud.cn/kancloud/tcp/45891)
 * [Redis设计与实现](http://www.kancloud.cn/kancloud/redisbook/63827)
 
 ### 综合技术
