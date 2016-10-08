@@ -17,7 +17,7 @@
 * [PHP扩展](http://www.cunmou.com/phpbook)
 * [PHP内核](http://www.php-internals.com)
 * [后端技术](http://chenzhenianqing.cn)
-* [Swoole扩展](http://rango.swoole.com)
+* [Rango博客](http://rango.swoole.com)
 * [Laruence博客](http://www.laruence.com)
 * [阮一峰博客](http://www.ruanyifeng.com/blog)
 * [Redis设计与实现](http://www.kancloud.cn/kancloud/redisbook/63827)
