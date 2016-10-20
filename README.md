@@ -4,18 +4,18 @@
 ### 代码学习
 
 * [FreeCodeCamp](https://www.freecodecamp.cn)
-* [代码学习](https://leetcode.com)
-* [代码示例1](http://www.programcreek.com)
-* [代码示例2](http://www.learntosolveit.com)
-* [Golang示例](https://gobyexample.com)
+* [LeetCode](https://leetcode.com)
+* [ProgramCreek](http://www.programcreek.com)
+* [LearnToSolveIt](http://www.learntosolveit.com)
+* [GoByExample](https://gobyexample.com)
 
 ### 服务端技术
 
 * [Java编程](http://ifeve.com)
-* [后端技术](http://timyang.net)
 * [Lnmp配置](http://www.nginx.cn)
 * [cznq博客](http://chenzhenianqing.cn)
-* [Rango博客](http://rango.swoole.com)
+* [rango博客](http://rango.swoole.com)
+* [后端技术](http://timyang.net)
 * [褚霸博客](http://blog.yufeng.info)
 * [惠新宸博客](http://www.laruence.com)
 * [阮一峰博客](http://www.ruanyifeng.com)
@@ -46,6 +46,7 @@
 
 ### 技术社区
 
+* [360前端团队](http://www.75team.com)
 * [淘宝核心系统团队](http://csrd.aliapp.com)
 * [淘宝量子恒道](http://blog.linezing.com)
 * [淘宝搜索技术博客](http://www.searchtb.com)
@@ -56,12 +57,8 @@
 * [腾讯大讲堂](http://djt.qq.com)
 * [腾讯Web前端团队](http://www.alloyteam.com)
 * [百度技术博客](http://baidutech.blog.51cto.com)
-* [百度技术沙龙](http://www.infoq.com/cn/zones/baidu-salon)
 * [百度互联网技术博客](http://blog.csdn.net/baiduforum)
 * [搜狗实验室博客](http://www.sogou.com/labs)
-* [搜狗实验室博客](http://labs.blog.sohu.com)
-* [UC技术博客](http://tech.uc.cn)
-* [360前端团队](http://www.75team.com)
 * [IBM-DeveloperWorks](http://www.ibm.com/developerworks/cn)
 
 ### 项目管理
