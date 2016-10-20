@@ -3,8 +3,8 @@
 
 ### 代码学习
 
-* [FreeCodeCamp](https://www.freecodecamp.cn)
 * [LeetCode](https://leetcode.com)
+* [FreeCodeCamp](https://www.freecodecamp.cn)
 * [ProgramCreek](http://www.programcreek.com)
 * [LearnToSolveIt](http://www.learntosolveit.com)
 * [GoByExample](https://gobyexample.com)
