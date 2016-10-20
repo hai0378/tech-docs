@@ -67,7 +67,7 @@
 ### 项目管理
 
 * [项目经理](http://www.kancloud.cn/digest/liangjb1986/204603)
-* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares/78160)
 
 ### 实用技术
 
