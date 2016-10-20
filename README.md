@@ -24,7 +24,7 @@
 * [TCP协议详解](http://www.kancloud.cn/kancloud/tcp/45891)
 * [Redis设计与实现](http://www.kancloud.cn/kancloud/redisbook/63827)
 * [面试和算法](http://blog.csdn.net/v_july_v/article/details/6543438)
-* [自然语言](vhttp://www.52nlp.cn)
+* [自然语言](http://www.52nlp.cn)
 * [读书思考](http://www.zhuangbiaowei.com/blog)
 * [ImportNew](http://www.importnew.com)
 * [MindHacks](http://mindhacks.cn)
