@@ -34,6 +34,7 @@
 * [Git手册](http://gitref.justjavac.com)
 * [Golang手册](http://godoc.golangtc.com)
 * [Linux内核](http://www.kerneltravel.net)
+* [Linux命令手册](http://man.linuxde.net)
 * [Linux设备与驱动](http://www.kancloud.cn/kancloud/ldd3/61083)
 * [PHP内核分析](http://www.nowamagic.net/librarys/veda/detail/1285)
 * [Linux_C_API](http://www.kancloud.cn/wizardforcel/linux-c-api-ref/98327)
