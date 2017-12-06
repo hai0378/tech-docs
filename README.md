@@ -52,11 +52,9 @@
 ### 技术社区
 
 * [360前端团队](http://www.75team.com)
-* [淘宝核心系统团队](http://csrd.aliapp.com)
-* [淘宝量子恒道](http://blog.linezing.com)
-* [淘宝搜索技术博客](http://www.searchtb.com)
+* [淘宝前端团队](http://taobaofed.org)
 * [淘宝内核组](http://kernel.taobao.org)
-* [淘宝数据库研发组](http://mysql.taobao.org)
+* [淘宝数据库研发组](http://mysql.taobao.org/monthly)
 * [阿里中间件团队博客](http://jm.taobao.org)
 * [美团技术团队](http://tech.meituan.com)
 * [腾讯大讲堂](http://djt.qq.com)
