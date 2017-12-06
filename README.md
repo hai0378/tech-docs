@@ -4,14 +4,13 @@
 ### 代码学习
 
 * [LeetCode](https://leetcode.com)
-* [FreeCodeCamp](https://www.freecodecamp.cn)
-* [ProgramCreek](http://www.programcreek.com)
-* [LearnToSolveIt](http://www.learntosolveit.com)
 * [GoByExample](https://gobyexample.com)
 
 ### 前端技术
 
 * [MDN文档](https://developer.mozilla.org/zh-CN)
+* [360前端团队](http://www.75team.com)
+* [淘宝前端团队](http://taobaofed.org)
 
 ### 服务端技术
 
@@ -33,6 +32,14 @@
 * [ImportNew](http://www.importnew.com)
 * [MindHacks](http://mindhacks.cn)
 
+### 技术社区
+
+* [美团技术团队](http://tech.meituan.com)
+* [淘宝内核组](http://kernel.taobao.org)
+* [淘宝数据库研发组](http://mysql.taobao.org/monthly)
+* [阿里中间件团队博客](http://jm.taobao.org)
+* [IBM-DeveloperWorks](http://www.ibm.com/developerworks/cn)
+
 ### 综合技术
 
 * [Git手册](http://gitref.justjavac.com)
@@ -48,21 +55,6 @@
 * [MySQL优化](http://ourmysql.com/archives/category/optimize)
 * [Web安全](http://www.woyigui.cn/category/network-security)
 * [网络爬虫](http://www.kancloud.cn/digest/spiders/117827)
-
-### 技术社区
-
-* [360前端团队](http://www.75team.com)
-* [淘宝前端团队](http://taobaofed.org)
-* [淘宝内核组](http://kernel.taobao.org)
-* [淘宝数据库研发组](http://mysql.taobao.org/monthly)
-* [阿里中间件团队博客](http://jm.taobao.org)
-* [美团技术团队](http://tech.meituan.com)
-* [腾讯大讲堂](http://djt.qq.com)
-* [腾讯Web前端团队](http://www.alloyteam.com)
-* [百度技术博客](http://baidutech.blog.51cto.com)
-* [百度互联网技术博客](http://blog.csdn.net/baiduforum)
-* [搜狗实验室博客](http://www.sogou.com/labs)
-* [IBM-DeveloperWorks](http://www.ibm.com/developerworks/cn)
 
 ### 项目管理
 
