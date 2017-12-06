@@ -51,9 +51,7 @@
 * [Linux_C_API](http://www.kancloud.cn/wizardforcel/linux-c-api-ref/98327)
 * [OpenResty手册](http://www.kancloud.cn/kancloud/openresty-best-practices)
 * [数据结构与算法](http://www.kancloud.cn/kancloud/data-structure-and-algorithm-notes)
-* [JS教程](http://bonsaiden.github.io/JavaScript-Garden/cn)
 * [MySQL优化](http://ourmysql.com/archives/category/optimize)
-* [Web安全](http://www.woyigui.cn/category/network-security)
 * [网络爬虫](http://www.kancloud.cn/digest/spiders/117827)
 
 ### 项目管理
