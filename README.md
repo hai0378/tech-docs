@@ -9,7 +9,6 @@
 ### 前端技术
 
 * [MDN文档](https://developer.mozilla.org/zh-CN)
-* [360前端团队](http://www.75team.com)
 * [淘宝前端团队](http://taobaofed.org)
 
 ### 服务端技术
