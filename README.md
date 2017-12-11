@@ -4,7 +4,7 @@
 ### 代码学习
 
 * [LeetCode](https://leetcode.com)
-* [GoByExample](https://gobyexample.com)
+* [Go示例](https://gobyexample.com)
 * [数据结构](http://www.cnblogs.com/skywang12345/category/508186.html)
 
 ### 前端技术
