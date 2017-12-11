@@ -47,7 +47,6 @@
 * [PHP内核分析](http://www.nowamagic.net/librarys/veda/detail/1285)
 * [Linux_C_API](http://www.kancloud.cn/wizardforcel/linux-c-api-ref/98327)
 * [OpenResty手册](http://www.kancloud.cn/kancloud/openresty-best-practices)
-* [数据结构与算法](http://www.kancloud.cn/kancloud/data-structure-and-algorithm-notes)
 * [MySQL优化](http://ourmysql.com/archives/category/optimize)
 * [网络爬虫](http://www.kancloud.cn/digest/spiders/117827)
 
@@ -55,7 +54,7 @@
 
 * [读书思考](http://www.zhuangbiaowei.com/blog)
 * [面试和算法](http://blog.csdn.net/v_july_v/article/details/6543438)
-* [项目经理](http://www.kancloud.cn/digest/liangjb1986/204603)
+* [项目经理修炼路](http://www.kancloud.cn/digest/liangjb1986/204603)
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares/78160)
 
 ### 实用技术
