@@ -10,18 +10,18 @@
 ### 前端技术
 
 * [MDN文档](https://developer.mozilla.org/zh-CN)
+* [阮一峰博客](http://www.ruanyifeng.com)
 * [淘宝前端团队](http://taobaofed.org)
 
 ### 服务端技术
 
 * [Java编程](http://ifeve.com)
-* [Lnmp配置](http://www.nginx.cn)
-* [cznq博客](http://chenzhenianqing.cn)
-* [rango博客](http://rango.swoole.com)
-* [后端技术](http://timyang.net)
+* [Lnmp架构](http://www.nginx.cn)
+* [TimYang博客](http://timyang.net)
+* [趁着年轻博客](http://chenzhenianqing.cn)
+* [韩天峰博客](http://rango.swoole.com)
 * [褚霸博客](http://blog.yufeng.info)
 * [惠新宸博客](http://www.laruence.com)
-* [阮一峰博客](http://www.ruanyifeng.com)
 * [PHP扩展](http://www.cunmou.com/phpbook)
 * [PHP内核](http://www.php-internals.com/book)
 * [TCP协议详解](http://www.kancloud.cn/kancloud/tcp/45891)
