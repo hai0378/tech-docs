@@ -21,6 +21,7 @@
 * [TimYang博客](http://timyang.net)
 * [褚霸博客](http://blog.yufeng.info)
 * [韩天峰博客](http://rango.swoole.com)
+* [架构技术](http://www.habadog.com)
 * [PHP扩展](http://www.cunmou.com/phpbook)
 * [PHP内核](http://www.php-internals.com/book)
 * [TCP协议详解](http://www.kancloud.cn/kancloud/tcp/45891)
@@ -35,6 +36,7 @@
 * [淘宝内核组](http://kernel.taobao.org)
 * [淘宝数据库研发组](http://mysql.taobao.org/monthly)
 * [阿里中间件团队博客](http://jm.taobao.org)
+* [k6k4技术交流圈](http://www.k6k4.com)
 * [IBM-DeveloperWorks](http://www.ibm.com/developerworks/cn)
 
 ### 综合技术
