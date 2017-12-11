@@ -17,18 +17,15 @@
 
 * [Java编程](http://ifeve.com)
 * [Lnmp架构](http://www.nginx.cn)
+* [cznq博客](http://chenzhenianqing.cn)
 * [TimYang博客](http://timyang.net)
-* [趁着年轻博客](http://chenzhenianqing.cn)
-* [韩天峰博客](http://rango.swoole.com)
 * [褚霸博客](http://blog.yufeng.info)
-* [惠新宸博客](http://www.laruence.com)
+* [韩天峰博客](http://rango.swoole.com)
 * [PHP扩展](http://www.cunmou.com/phpbook)
 * [PHP内核](http://www.php-internals.com/book)
 * [TCP协议详解](http://www.kancloud.cn/kancloud/tcp/45891)
 * [Redis设计与实现](http://www.kancloud.cn/kancloud/redisbook/63827)
-* [面试和算法](http://blog.csdn.net/v_july_v/article/details/6543438)
 * [自然语言](http://www.52nlp.cn)
-* [读书思考](http://www.zhuangbiaowei.com/blog)
 * [ImportNew](http://www.importnew.com)
 * [MindHacks](http://mindhacks.cn)
 
@@ -54,8 +51,10 @@
 * [MySQL优化](http://ourmysql.com/archives/category/optimize)
 * [网络爬虫](http://www.kancloud.cn/digest/spiders/117827)
 
-### 项目管理
+### 个人提升
 
+* [读书思考](http://www.zhuangbiaowei.com/blog)
+* [面试和算法](http://blog.csdn.net/v_july_v/article/details/6543438)
 * [项目经理](http://www.kancloud.cn/digest/liangjb1986/204603)
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares/78160)
 
