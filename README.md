@@ -37,7 +37,6 @@
 * [淘宝数据库研发组](http://mysql.taobao.org/monthly)
 * [阿里中间件团队博客](http://jm.taobao.org)
 * [k6k4技术交流圈](http://www.k6k4.com)
-* [IBM-DeveloperWorks](http://www.ibm.com/developerworks/cn)
 
 ### 综合技术
 
