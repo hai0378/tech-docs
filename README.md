@@ -34,7 +34,6 @@
 ### 技术社区
 
 * [美团技术团队](http://tech.meituan.com)
-* [淘宝内核组](http://kernel.taobao.org)
 * [淘宝数据库研发组](http://mysql.taobao.org/monthly)
 * [阿里中间件团队博客](http://jm.taobao.org)
 * [k6k4技术交流圈](http://www.k6k4.com)
