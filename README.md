@@ -1,6 +1,3 @@
-### 风景
-* [旅行](https://www.dandyweng.com)
-
 ### 代码学习
 
 * [LeetCode](https://leetcode.com)
