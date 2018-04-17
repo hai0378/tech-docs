@@ -55,3 +55,4 @@
 ### 实用技术
 
 * [GPG加密](http://www.williamlong.info/archives/3439.html)
+* [Linux开发社区](http://linux.ctolib.com)
