@@ -10,6 +10,7 @@
 * [MDN文档](https://developer.mozilla.org/zh-CN)
 * [阮一峰博客](http://www.ruanyifeng.com)
 * [淘宝前端团队](http://taobaofed.org)
+* [微信小程序](http://www.runoob.com/w3cnote/wx-xcx-repo.html)
 
 ### 服务端技术
 
