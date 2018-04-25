@@ -4,6 +4,7 @@
 * [Go示例](https://gobyexample.com)
 * [Go标准库](https://studygolang.com/pkgdoc)
 * [数据结构](http://www.cnblogs.com/skywang12345/category/508186.html)
+* [Go代码规范](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ### 前端技术
 
