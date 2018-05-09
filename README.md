@@ -29,6 +29,10 @@
 * [ImportNew](http://www.importnew.com)
 * [MindHacks](http://mindhacks.cn)
 
+### 机器学习
+
+*[常见算法](http://www.cnblogs.com/maybe2030)
+
 ### 技术社区
 
 * [美团技术团队](http://tech.meituan.com)
