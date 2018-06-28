@@ -8,6 +8,7 @@
 
 ### 前端技术
 
+* [菜鸟手册](http://www.runoob.com)
 * [MDN文档](https://developer.mozilla.org/zh-CN)
 * [阮一峰博客](http://www.ruanyifeng.com)
 * [淘宝前端团队](http://taobaofed.org)
@@ -31,7 +32,7 @@
 
 ### 机器学习
 
-*[常见算法](http://www.cnblogs.com/maybe2030)
+* [常见算法](http://www.cnblogs.com/maybe2030)
 
 ### 技术社区
 
