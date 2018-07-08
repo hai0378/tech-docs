@@ -1,10 +1,10 @@
 ### 代码学习
 
-* [RFC](http://man.chinaunix.net/develop/rfc/default.htm)
 * [Go示例](https://gobyexample.com)
 * [Go标准库](https://studygolang.com/pkgdoc)
-* [数据结构](http://www.cnblogs.com/skywang12345/category/508186.html)
 * [Go代码规范](https://github.com/golang/go/wiki/CodeReviewComments)
+* [数据结构](http://www.cnblogs.com/skywang12345/category/508186.html)
+* [RFC](http://man.chinaunix.net/develop/rfc/default.htm)
 
 ### 前端技术
 
@@ -18,38 +18,25 @@
 * [Java编程](http://ifeve.com)
 * [Lnmp架构](http://www.nginx.cn)
 * [cznq博客](http://chenzhenianqing.cn)
-* [TimYang博客](http://timyang.net)
-* [褚霸博客](http://blog.yufeng.info)
-* [韩天峰博客](http://rango.swoole.com)
+* [TimYang博客](https://timyang.net/category/distributed/)
 * [架构技术](http://www.habadog.com)
-* [PHP扩展](http://www.cunmou.com/phpbook)
-* [PHP内核](http://www.php-internals.com/book)
 * [TCP协议详解](http://www.kancloud.cn/kancloud/tcp/45891)
 * [Redis设计与实现](http://www.kancloud.cn/kancloud/redisbook/63827)
 * [自然语言](http://www.52nlp.cn)
-* [ImportNew](http://www.importnew.com)
-* [MindHacks](http://mindhacks.cn)
-
-### 机器学习
-
-* [常见算法](http://www.cnblogs.com/maybe2030)
 
 ### 技术社区
 
 * [美团技术团队](http://tech.meituan.com)
 * [淘宝数据库研发组](http://mysql.taobao.org/monthly)
 * [阿里中间件团队博客](http://jm.taobao.org)
-* [k6k4技术交流圈](http://www.k6k4.com)
+* [Linux开发社区](http://linux.ctolib.com)
 
 ### 综合技术
 
 * [Linux命令手册](http://man.linuxde.net)
 * [MySQL优化](http://ourmysql.com/archives/category/optimize)
-* [OpenResty手册](http://www.kancloud.cn/kancloud/openresty-best-practices)
 * [Linux_C_API](http://www.kancloud.cn/wizardforcel/linux-c-api-ref/98327)
 * [Linux设备与驱动](http://www.kancloud.cn/kancloud/ldd3/61083)
-* [PHP内核分析](http://www.nowamagic.net/librarys/veda/detail/1285)
-* [网络爬虫](http://www.kancloud.cn/digest/spiders/117827)
 
 ### 个人提升
 
@@ -61,4 +48,3 @@
 ### 实用技术
 
 * [GPG加密](http://www.williamlong.info/archives/3439.html)
-* [Linux开发社区](http://linux.ctolib.com)
