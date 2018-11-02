@@ -23,6 +23,7 @@
 * [TCP协议详解](http://www.kancloud.cn/kancloud/tcp/45891)
 * [Redis设计与实现](http://www.kancloud.cn/kancloud/redisbook/63827)
 * [自然语言](http://www.52nlp.cn)
+* [陶辉笔记](https://www.taohui.pub)
 
 ### 技术社区
 
