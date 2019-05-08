@@ -30,7 +30,6 @@
 * [美团技术团队](http://tech.meituan.com)
 * [淘宝数据库研发组](http://mysql.taobao.org/monthly)
 * [阿里中间件团队博客](http://jm.taobao.org)
-* [Linux开发社区](http://linux.ctolib.com)
 
 ### 综合技术
 
