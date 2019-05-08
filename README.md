@@ -17,7 +17,7 @@
 
 * [Java编程](http://ifeve.com)
 * [Lnmp架构](http://www.nginx.cn)
-* [cznq博客](http://chenzhenianqing.cn)
+* [cznq博客](http://chenzhenianqing.com)
 * [TimYang博客](https://timyang.net/category/distributed/)
 * [陶辉笔记](https://www.taohui.pub)
 * [TCP协议详解](http://www.kancloud.cn/kancloud/tcp/45891)
