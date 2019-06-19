@@ -19,6 +19,7 @@
 * [Lnmp架构](http://www.nginx.cn)
 * [cznq博客](http://chenzhenianqing.com)
 * [TimYang博客](https://timyang.net/category/distributed/)
+* [后端技术](https://draveness.me/)
 * [陶辉笔记](https://www.taohui.pub)
 * [TCP协议详解](http://www.kancloud.cn/kancloud/tcp/45891)
 * [Redis设计与实现](http://www.kancloud.cn/kancloud/redisbook/63827)
